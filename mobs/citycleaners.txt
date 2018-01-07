@@ -18,7 +18,7 @@
 //============================================================
 
 //==================================================
-// Rosa Selvagem City Spawns
+// Rosa Selvagem Invocada nas cidades
 //==================================================
 prontera,0,0	monster	Rosa Selvagem	1261,1,7200000,3600000
 morocc,0,0	monster	Rosa Selvagem	1261,1,7200000,3600000
